@@ -1,6 +1,6 @@
 [
   {
-    "name": "Sample Plugin",
-    "entry": "./plugins/sample-plugin/plugin.js"
+    "name": "akhila Plugin",
+    "entry": "./plugins/akhila-plugin/plugin.js"
   }
 ]

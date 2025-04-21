@@ -1,3 +1,3 @@
 module.exports.run = () => {
-  return "Hi sample plugin";
+  return "Hi from sample plugin";
 };
